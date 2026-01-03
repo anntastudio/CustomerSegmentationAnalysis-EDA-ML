@@ -20,7 +20,7 @@ Secondary:
 * Enhanced business profitability
 <br>
 
-### Findings
+### Findings and Recommendation
 <img width="1760" height="367" alt="image" src="https://github.com/user-attachments/assets/cd1df68e-8cd4-4cc6-9f74-7e437affca40" />
 
 Four (04) is the optimal number of clusters, faily evenly distributed ranging from 490 to 600 customers each.
