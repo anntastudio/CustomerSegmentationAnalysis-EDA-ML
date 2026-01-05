@@ -1,6 +1,6 @@
 # CustomerSegmentationAnalysis-EDA-ML
 ### Project background
-This project delivers a customer segmentation solution that transforms how a supermarket understands and engages its customer base. By applying machine learning to analyze purchasing behavior, demographics, and engagement patterns, the solution identifies 4 distinct customer segments. This enables the marketing team to execute targeted campaigns, optimize promotional strategies, improve retention rates, and drive revenue growth through data-driven personalization.
+This project delivers a customer segmentation solution that transforms how a supermarket understands and engages its customer base. By applying machine learning to analyse purchasing behavior, demographics, and engagement patterns, the solution identifies 4 distinct customer segments. This enables the marketing team to execute targeted campaigns, optimise promotional strategies, improve retention rates, and drive revenue growth through data-driven personalisation.
 
 ### Business challenges
 * The business struggles to understand diverse customer needs with a one-size-fits-all approach
