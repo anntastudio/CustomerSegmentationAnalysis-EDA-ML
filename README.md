@@ -50,7 +50,7 @@ A look into customers' responses to promotions
 
 ### Methodology
 * Data source: extracts in csv format
-* Technology used: Google Colab, Python 3.12.2, Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, Yellowbrick, PCA, Agglomerative Clustering, Label Encoding, StandardScaler, Google Colab, Jupyter Notebook
+* Technology used: Python 3.12.2, Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, Yellowbrick, PCA, Agglomerative Clustering, Label Encoding, StandardScaler, Google Colab, Jupyter Notebook
 * Data structure (raw data)
 <img width="370" height="606" alt="image" src="https://github.com/user-attachments/assets/4d16dcb7-1c51-43a4-b3ff-c7b53f5f7eae" />
 <br>
